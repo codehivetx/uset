@@ -1,0 +1,19 @@
+{
+  "name": "@codehivetx/uset",
+  "version": "1.0.0",
+  "description": "Unicode Set Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "postinstall": "tsc"
+  },
+  "keywords": [],
+  "author": "Steven R. Loomis <srl295@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.7.17",
+    "typescript": "^4.8.3"
+  }
+}
