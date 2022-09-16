@@ -1,3 +1,5 @@
-module.exports = {
-    cli: require('./lib/cli')
-};
+import { USet } from "./lib/uset";
+
+
+export { USet };
+
